@@ -466,3 +466,6 @@ button[type="submit"]:hover {
         min-height: 225px;
     }
 }
+
+
+div#map {min-height: 360px;}
