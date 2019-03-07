@@ -25,7 +25,7 @@
 
 
 
-.bg-color-contact {
+.bg-color-contact, .bg-color-interests, .bg-color-github {
     background-color: #79c77a;
     border-right: 2px solid #baeebb;
     border-top: 2px solid #baeebb;
@@ -205,7 +205,7 @@ footer {
     background-color: #376838;
     color: white;
     margin: 0px;
-    min-height: 120px
+    min-height: 120px;
 }
 
 .downloadcv i {
@@ -448,10 +448,13 @@ button[type="submit"]:hover {
 
     }
 
-    .bg-color-contact {
+    .bg-color-contact, .bg-color-github, .bg-color-interests {
         border-top: 2px solid #baeebb;
 
     }
+    
+    
+  
 
     .bg-color-download {
         border-top: 2px solid #baeebb;
