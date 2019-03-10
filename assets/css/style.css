@@ -38,11 +38,7 @@
     background-color: #79c77a;
     border-bottom: 2px solid #baeebb;
     border-top: 2px solid #baeebb;
-
-
-
 }
-
 
 
 .bg-personal {
@@ -54,6 +50,10 @@
 }
 
 .bg-contact {
+    background-color: white;
+}
+
+.bg-color-github2{
     background-color: white;
 }
 
@@ -469,3 +469,4 @@ button[type="submit"]:hover {
 
 
 div#map {min-height: 360px;}
+
